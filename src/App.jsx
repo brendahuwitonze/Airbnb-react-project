@@ -14,8 +14,8 @@ function App() {
     <div className='mainCard'>
     <Card
     status="SOLD OUT"
-    img="src/assets/image.png"
-    imges="src/assets/Star 1.png"
+    img="/assets/image.png"
+    imges="/assets/Star 1.png"
     views='5.0(6).USA'
     name='life lesson with katie zaferes'
     price ="$136/person"
@@ -23,8 +23,8 @@ function App() {
  
 <Card
     status="ONLINE"
-    img="src/assets/wedding-photography 1.png"
-    imges="src/assets/Star 1.png"
+    img="/assets/wedding-photography 1.png"
+    imges="/assets/Star 1.png"
     views='5.0(6).USA'
     name='life wedding photography'
     price ="$125/person"
@@ -32,8 +32,8 @@ function App() {
 
 <Card
     status="ONLINE"
-    img="src/assets/mountain-bike 1.png"
-    imges="src/assets/Star 1.png"
+    img="/assets/mountain-bike 1.png"
+    imges="/assets/Star 1.png"
     views='5.0(6).USA'
     name="Group Mountain Biking"
     price ="$50/person"
