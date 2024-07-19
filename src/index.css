@@ -33,21 +33,19 @@ section{
   margin-top:0
 }
 
+h2{
 
-.cards{
-  display: flex;
-  flex-direction: row;
-  padding-left: 30px;
-  gap:10px;
+  font-size:0.75rem;
+  font-weight: normal;
 }
+
+
 .subwords{
   display:flex;
 }
 .subwords > p {
   margin-left: 10px;
   margin-top: 0px;
-
- 
 }
 .subwords > img{
   width: 20px;
@@ -57,69 +55,17 @@ section{
 position: relative;
 top: 50px;
 left:10px;
-padding-left: 3px;
-margin:10px;
+padding: 3px 3px 3px 3px;
+margin-bottom:20px;
+margin-right:5px;
 border-radius: 5px 5px 5px;
 background-color: aliceblue;
 width:90px;
 }
-
-
-.card2--subwords{
-  display:flex;
-}
-.card2--subwords > p {
-  margin-left: 10px;
-  margin-top: 0px;
-
- 
-}
-.card2--subwords > img{
-  width: 20px;
-  height:20px
-}
-.card2--img1 > p{
-position: relative;
-top: 50px;
-left:10px;
-padding-left: 3px;
-margin:10px;
-border-radius: 5px 5px 5px;
-background-color: aliceblue;
-width:90px;
-}
-
-
-
-
-.card3--subwords{
-  display:flex;
-  
-}
-.card3--subwords > p {
-  margin-left: 10px;
-  margin-top: 0px;
-}
-.card3--subwords > img{
-  width: 20px;
-  height:20px
-}
-.card3--img1 > p{
-position: relative;
-top: 50px;
-left:10px;
-padding-left: 3px;
-margin:10px;
-border-radius: 5px 5px 5px;
-background-color: aliceblue;
-width:90px;
-}
-
 
 .cardImages{
   width:176px;
   height: 235px;
-
 }
 
 

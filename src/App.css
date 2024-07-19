@@ -43,3 +43,11 @@
   justify-content: center;
   align-items: center;
 }
+.mainCard{
+  display: flex;
+  flex-direction:row;
+  padding-left: 30px;
+  gap:20px;
+  font-size: 0.75rem;
+  text-align: center;
+}
